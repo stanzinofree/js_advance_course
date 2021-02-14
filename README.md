@@ -1,5 +1,4 @@
-[![MIT License][license-shield]](./MIT-LICENSE.txt)
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/stanzinofree/)
+
 
 
 
@@ -10,6 +9,9 @@
 
   <p align="center">
     An awesome README template to jumpstart your projects!
+    <br />
+    [![MIT License][license-shield]](./MIT-LICENSE.txt)
+    [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/stanzinofree/)
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
