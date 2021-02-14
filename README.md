@@ -1,32 +1,20 @@
+# Progetto JS Advance
+
+[![MIT License][license-shield]](./MIT-LICENSE.txt)
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/stanzinofree/)
 
 
-
-
-<!-- PROJECT LOGO -->
-<br />
 <p align="center">
-  <h3 align="center">Progetto JavaScript Advanced di Alessandro Middei per Start2Impact</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    [![MIT License][license-shield]](./MIT-LICENSE.txt)
-    [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/stanzinofree/)
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
+<h3 align="center">Progetto JavaScript Advanced di Alessandro Middei per Start2Impact</h3>
+<p align="center">Realizzazione di un'applicazione che permetta di ottenere informazioni sui livelli di inquinamento di una città.</p>
+<h3 align="center">Constraints</h3>
+<ul>
+<li>L'applicazione dovrà usare l'input utente per la scelta della città o le coordinate GPS</li>
+<li>Il sistema dovrà usare le API messe a disposizione da AICQN</li>
+<li>Va usato webpack come bundler</li>
+</ul>
 </p>
 
-
-
-<!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
