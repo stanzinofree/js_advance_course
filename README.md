@@ -1,5 +1,5 @@
-[![MIT License][license-shield]][./MIT-LICENSE.txt]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/stanzinofree/]
+[![MIT License][license-shield]](./MIT-LICENSE.txt)
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/stanzinofree/)
 
 
 
